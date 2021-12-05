@@ -1,0 +1,1 @@
+{"version":3,"file":"statement.js","sourceRoot":"./src/","sources":["statement.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;AAGA,+DAAiD;AACjD,uDAAyC;AAIzC,SAAS,SAAS,CAAC,QAAoB,EAAE,IAAW;IAChD,OAAO,CAAC,GAAG,CAAC,OAAM,CAAC,QAAQ,CAAC,CAAC,CAAC;IAC9B,OAAO,CAAC,GAAG,CAAC,OAAM,CAAC,IAAI,CAAC,CAAC,CAAC;AAC9B,CAAC;AAED,SAAS,CAAC,QAAQ,EAAE,IAAa,CAAC,CAAA"}
